@@ -1,1 +1,3 @@
 # NeoCard_Clustering-Problem
+Kalash, the dynamic CMO of NeoCard, sat in his glass-walled office, sipping his espresso. He had a vision—NeoCard was already a dominant player in the credit card industry, but he wanted to take it a step further. He envisioned offering Forex benefits to the most valuable customers, giving them exclusive advantages on international transactions. But the challenge was whom to target.
+To crack this, he called in his top data scientist team and asked them to segment their customers based on credit card spending behavior. The team, armed with data science, got to work.
